@@ -1,4 +1,4 @@
-var objects = {}
+var objects = {artistName: "songTitle"}
 
 var playlist = Object.assign({}, objects)
 
